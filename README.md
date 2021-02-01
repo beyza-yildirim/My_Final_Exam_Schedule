@@ -9,4 +9,4 @@
   
 2) Utilizing the schedule application: Make sure the csv file is present in src then run Main.java. A GUI will appear, allowing the user to input their courses. 
 
-
+![alt text](https://hizliresim.com/RS67gu)
