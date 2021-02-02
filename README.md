@@ -1,4 +1,4 @@
-# Find My Exam Schedule - McHacks 8 Edition
+# Find My Exam Schedule - McHacks 8
 ### Authors: Abdullatif Hassan, Beyza Yildirim
 ### Description: This Application Allows Students to find details about their final exams from the final schedule pdf file that is released before exam season. The user inputs the courses of interest via a GUI and receives back the information regarding the exams of those courses (date, time, location ...). 
 ## Packages required: 
