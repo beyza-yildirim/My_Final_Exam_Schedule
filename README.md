@@ -10,6 +10,10 @@ This Java application allows students to find details about their final exams fr
 
 **Java:** Swing, AWT
 
+Download the required python packages by:
+
+```pip -r requirements.txt```
+
 ## Instructions:
 1) Obtaining a CSV file from online PDF:
 
