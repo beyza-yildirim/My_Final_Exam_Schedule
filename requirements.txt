@@ -1,0 +1,4 @@
+tabula-py
+requests
+camelot
+pandas
